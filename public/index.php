@@ -1,2 +1,2 @@
 <?php 
-echo $_SERVER['LOCAL_ADDR'];
+echo $_SERVER['SERVER_ADDR'];
